@@ -1,0 +1,22 @@
+{
+  "name": "ng-simple-facebook",
+  "version": "0.0.1",
+  "homepage": "https://github.com/9gix/ng-simple-facebook",
+  "authors": [
+    "Eugene <yeo.eugene.oey@gmail.com>"
+  ],
+  "description": "A simple Angular Facebook Service",
+  "main": "angular-facebook.js",
+  "keywords": [
+    "angular",
+    "facebook"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
