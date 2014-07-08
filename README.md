@@ -1,7 +1,10 @@
 ng-simple-facebook
 ==================
 
-A simple angularjs facebook login.
+A simple angularjs facebook login, using angular promises.
+
+Usage
+-----
 
 ```
 .config(function(FacebookProvider){
