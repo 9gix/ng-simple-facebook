@@ -30,3 +30,7 @@ Usage
 });
 
 ```
+
+
+Inspired from Angular-Google-Plus.
+https://github.com/mrzmyr/angular-google-plus
