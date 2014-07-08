@@ -3,6 +3,11 @@ ng-simple-facebook
 
 A simple angularjs facebook login, using angular promises.
 
+Setup
+-----
+
+```bower install -S https://github.com/9gix/ng-simple-facebook.git```
+
 Usage
 -----
 
